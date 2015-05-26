@@ -1,0 +1,22 @@
+{
+  "name": "dynamo-helpers",
+  "version": "0.0.1",
+  "description": "a helper library to make a standard object valid for insertion into dynamodb, and to turn the item from dynamodb back into the format of the inserted object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "dynamodb",
+    "dynamo",
+    "amazon",
+    "helper",
+    "object"
+  ],
+  "author": "Conor Hastings",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
