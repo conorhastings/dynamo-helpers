@@ -9,7 +9,7 @@ a simple helper library that takes a standard JS object, and turns it into an ob
 ### objectToDynamo
 
 ```js
-var dynamoHelpers = require("object2dynamo");
+var dynamoHelpers = require("dyanmo-helpers");
 
 var object = {
 	cool: "teen",
